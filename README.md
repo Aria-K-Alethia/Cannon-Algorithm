@@ -19,11 +19,13 @@ So I implemented a parallel matrix generation code using MPI I/O. By using this 
 
 ## Usage
 For matrix generation:  
+
     ./generate row col outfile
 	
 **NOTE**:  currenly you should use 81 processes to run this code  
 
 For cannon algorithm:  
+
 	./cannon filea fileb filec
 
 ## Licence
