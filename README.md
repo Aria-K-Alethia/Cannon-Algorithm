@@ -26,7 +26,7 @@ For matrix generation:
 
 For cannon algorithm:  
 
-	./cannon filea fileb filec
+	./cannon mode filea fileb filec
 
 ## Licence
 This code is under MIT licence.
