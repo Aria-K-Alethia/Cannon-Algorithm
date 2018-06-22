@@ -1,5 +1,5 @@
 /*
-	Copyright (c) 2018 xindetai@Beihang University
+	Copyright (c) 2018 Aria-K-Alethia@github.com
 	Generate huge dense matrix using MPI IO
 	The size is given by cmd line
 
@@ -12,6 +12,8 @@
 	NOTE:
 		YOU MUST USE 81 PROCS TO RUN THIS PROGRAM
 		THE FINAL MATRIX SIZE IS 9*n1 x 9*n2
+
+	THIS CODE IS UNDER MIT LICENCE.
 */
 #include <stdio.h>
 #include <stdlib.h>
